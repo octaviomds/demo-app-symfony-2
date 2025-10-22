@@ -1,6 +1,7 @@
 DEMO SYMFONY
 
-![SYMFONY](https://github.com/user-attachments/assets/b222e008-aaa8-4ff5-bd94-b72552c977b6)
+
+<img width="1324" height="1068" alt="Capture d’écran 2025-10-22 à 17 29 57" src="https://github.com/user-attachments/assets/13abe82d-af0a-419c-bf19-52ee9ed43983" />
 
 
 
